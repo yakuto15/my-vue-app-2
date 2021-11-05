@@ -7,6 +7,7 @@
       <h1>Gitについて</h1>
       <!-- <Counter></Counter> -->
   </div>
+ 
 </template>
 
 <script>

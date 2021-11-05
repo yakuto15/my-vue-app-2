@@ -5,7 +5,7 @@
    </div> -->
    <div>
       <h1>Gitについて</h1>
-      <Counter></Counter>
+      <!-- <Counter></Counter> -->
   </div>
 </template>
 
@@ -17,13 +17,13 @@
 //     Navbar,
 //   },
 // }
-import Counter from "@/components/Counter.vue"
+// import Counter from "@/components/Counter.vue"
 
-export default{
-  components:{
-    Counter,
-  },
-}
+// export default{
+//   components:{
+//     Counter,
+//   },
+// }
 </script>
 
 <style>

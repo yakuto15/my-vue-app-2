@@ -3,8 +3,10 @@
     <Navbar />
     <router-view /> 
    </div> -->
-  <h1>Gitについて</h1>
-  
+   <div>
+      <h1>Gitについて</h1>
+      <Counter></Counter>
+  </div>
 </template>
 
 <script>
@@ -15,6 +17,13 @@
 //     Navbar,
 //   },
 // }
+import Counter from "@/components/Counter.vue"
+
+export default{
+  components:{
+    Counter,
+  },
+}
 </script>
 
 <style>

@@ -1,3 +1,7 @@
 <template>
-    <div>カウンター更新</div>
+    <div>
+        <h1>カウンター更新</h1>
+        <div>カウンター</div>
+        <div>コンフリクトなう</div>
+    </div>
 </template>

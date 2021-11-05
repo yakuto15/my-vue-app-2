@@ -5,8 +5,9 @@
    </div> -->
    <div>
       <h1>Gitについて</h1>
-      <Counter></Counter>
+       <Counter></Counter>
   </div>
+ 
 </template>
 
 <script>

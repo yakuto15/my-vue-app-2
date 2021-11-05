@@ -6,6 +6,7 @@
    <div>
       <h1>Gitについて</h1>
       <!-- <Counter></Counter> -->
+      <div>あああ</div>
   </div>
  
 </template>
